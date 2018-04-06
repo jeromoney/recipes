@@ -1,29 +1,29 @@
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Logging started: 2018-04-06T16:49:27
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Application Name: Survey123forArcGIS
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Application Version: 2.7.98
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Application File Path: /data/app/com.esri.survey123-1/lib/arm/libAppStudioApp.so
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Application Directory Path: /data/app/com.esri.survey123-1/lib/arm
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ AppFramework Version: 2.1.15
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Qt Version: 5.9.1
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Operating System: Android Nougat (7.0)
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Operating System Type: android
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Operating System Version: 7.0
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Kernel Type: linux
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Kernel Version: 3.10.84-g2ccb7a8
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Build ABI: arm-little_endian-ilp32-eabi
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Current CPU Architecture: arm
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Build CPU Architecture: arm
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ SSL Library Version: OpenSSL 1.0.2n  7 Dec 2017
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Host name: localhost
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Domain name: 
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Default locale: en_US
-<14>1 2018-04-06T22:49:27Z localhost Survey123forArcGIS 20811 - - $ Release Type: store
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Logging started: 2018-04-06T16:46:49
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Application Name: Survey123forArcGIS
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Application Version: 2.7.98
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Application File Path: /data/app/com.esri.survey123-1/lib/arm/libAppStudioApp.so
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Application Directory Path: /data/app/com.esri.survey123-1/lib/arm
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ AppFramework Version: 2.1.15
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Qt Version: 5.9.1
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Operating System: Android Nougat (7.0)
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Operating System Type: android
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Operating System Version: 7.0
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Kernel Type: linux
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Kernel Version: 3.10.84-g2ccb7a8
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Build ABI: arm-little_endian-ilp32-eabi
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Current CPU Architecture: arm
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Build CPU Architecture: arm
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ SSL Library Version: OpenSSL 1.0.2n  7 Dec 2017
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Host name: localhost
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Domain name: 
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Default locale: en_US
+<14>1 2018-04-06T22:46:49Z localhost Survey123forArcGIS 19406 - - $ Release Type: store
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<15>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
   "displayInfo": {
     "map": {
       "coordinateFormat": null,
@@ -59,20 +59,20 @@
     "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3/FeatureServer"
   }
 }
-<15>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QQmlExpression: Expression qrc:/qml/template/SurveyInfoPage.qml:204:20 depends on non-NOTIFYable properties:
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"]     QQuickItem::resources
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QQmlExpression: Expression qrc:/qml/template/SurveyInfoPage.qml:204:20 depends on non-NOTIFYable properties:
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"]     QQuickItem::resources
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:29Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:30Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
+<15>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QQmlExpression: Expression qrc:/qml/template/SurveyInfoPage.qml:204:20 depends on non-NOTIFYable properties:
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"]     QQuickItem::resources
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QQmlExpression: Expression qrc:/qml/template/SurveyInfoPage.qml:204:20 depends on non-NOTIFYable properties:
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"]     QQuickItem::resources
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:46:58Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<15>1 2018-04-06T22:46:59Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
   "displayInfo": {
     "map": {
       "coordinateFormat": null,
@@ -108,19 +108,19 @@
     "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3/FeatureServer"
   }
 }
-<15>1 2018-04-06T22:49:30Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QObject::connect: Incompatible sender/receiver arguments
+<15>1 2018-04-06T22:46:59Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QObject::connect: Incompatible sender/receiver arguments
         QTextToSpeech::volumeChanged(int) --> TextToSpeech::volumeChanged(double)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="metaValue" filename="XFormData.qml" line="1495"] qml: metaValue: Schema not ready
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="loadExternal" filename="XFormItemsets.qml" line="69"] qml: Itemsets data file not found: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media/itemsets.csv
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addDefaultMapSources" filename="XFormMapSettings.qml" line="220"] qml: Reading default map sources: qrc:/qml/XForms/XFormMapSettings.json
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refreshDisplayInfo" filename="XForm.qml" line="404"] qml: refreshDisplayInfo {
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="metaValue" filename="XFormData.qml" line="1495"] qml: metaValue: Schema not ready
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="loadExternal" filename="XFormItemsets.qml" line="69"] qml: Itemsets data file not found: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media/itemsets.csv
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addDefaultMapSources" filename="XFormMapSettings.qml" line="220"] qml: Reading default map sources: qrc:/qml/XForms/XFormMapSettings.json
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refreshDisplayInfo" filename="XForm.qml" line="404"] qml: refreshDisplayInfo {
   "map": {
     "coordinateFormat": null,
     "defaultType": {
@@ -146,7 +146,7 @@
     "toolbarTextColor": "#ffffff"
   }
 }
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="75"] qml: Refreshing map settings surveyPath: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo info: {
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="75"] qml: Refreshing map settings surveyPath: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo info: {
   "coordinateFormat": null,
   "defaultType": {
     "name": null
@@ -161,104 +161,104 @@
     "zoomLevel": 0
   }
 }
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="176"] qml: Map folders: [
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="176"] qml: Map folders: [
   "esriinfo-media",
   "media",
   "Maps",
   "maps"
 ]
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="189"] qml: Adding private maps folder: {
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="189"] qml: Adding private maps folder: {
   "recursive": true,
   "url": "file:///sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media"
 }
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="209"] qml: Adding maps library folder: {
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="209"] qml: Adding maps library folder: {
   "recursive": true,
   "url": "file:///sdcard/ArcGIS/My Surveys/Maps"
 }
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refreshImagesInfo" filename="XForm.qml" line="453"] qml: refreshImagesInfo {
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refreshImagesInfo" filename="XForm.qml" line="453"] qml: refreshImagesInfo {
   "captureResolution": 0
 }
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="350"] qml: instanceName: xls-7b574c1e08a94f7488326a5cc25debc3
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="356"] qml: version: 
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="363"] qml: layoutStyle: 
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/surveyDescription XFormNoteControl_QMLTYPE_493(0x941d86e0)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_3 XFormInputControl_QMLTYPE_342(0x8f17c000)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_5 XFormInputControl_QMLTYPE_342(0x8f1e5520)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<10>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="setValue" filename="XFormData.qml" line="373"] qml: setValue: No matching field for nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/field_4
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/textViewStyle_TextView_textSelectHandle.png
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/textViewStyle_TextView_textSelectHandleLeft.png
-<10>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="setValue" filename="XFormData.qml" line="373"] qml: setValue: No matching field for nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/field_4
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_4 XFormMultiLineControl_QMLTYPE_392(0x8f2d0500)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="createUpload" filename="XForm.qml" line="1329"] qml: mediatype: image/* type: image appearance: undefined
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onCompleted" filename="XFormImageControl.qml" line="76"] qml: image prefix: field_2
-<15>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_2 XFormImageControl_QMLTYPE_488(0x8f227380)
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:31Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
-<14>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] Plugin: AppStudio Type: geoservices Version: 2.1.15
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyle_ProgressBar_indeterminateDrawable__0.png
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyle_ProgressBar_indeterminateDrawable__1.png
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyleSmall_ProgressBar_indeterminateDrawable__0.png
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyleSmall_ProgressBar_indeterminateDrawable__1.png
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
-<12>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="activate" filename="XFormPositionSourceManager.qml" line="125"] qml: Activate positionSource referenceCount: 1 active: false
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_1 XFormGeopointControl_QMLTYPE_411(0x8ee30460)
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="368"] qml: Media folder: true /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="369"] qml: Extensions folder: false /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/extensions
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="46"] qml: Update table schema: {
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="350"] qml: instanceName: xls-7b574c1e08a94f7488326a5cc25debc3
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="356"] qml: version: 
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="363"] qml: layoutStyle: 
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/surveyDescription XFormNoteControl_QMLTYPE_434(0x92efcd40)
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_3 XFormInputControl_QMLTYPE_464(0x92e6e540)
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_5 XFormInputControl_QMLTYPE_464(0x92d2da60)
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<10>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="setValue" filename="XFormData.qml" line="373"] qml: setValue: No matching field for nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/field_4
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/textViewStyle_TextView_textSelectHandle.png
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/textViewStyle_TextView_textSelectHandleLeft.png
+<10>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="setValue" filename="XFormData.qml" line="373"] qml: setValue: No matching field for nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/field_4
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_4 XFormMultiLineControl_QMLTYPE_470(0x92c0aa40)
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="createUpload" filename="XForm.qml" line="1329"] qml: mediatype: image/* type: image appearance: undefined
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onCompleted" filename="XFormImageControl.qml" line="76"] qml: image prefix: field_2
+<15>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_2 XFormImageControl_QMLTYPE_418(0x92be78c0)
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:00Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1836"] qrc:/qml/XForms/XForm.qml:1836:9: QML XFormGroupControl: Binding loop detected for property "implicitWidth"
+<14>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] Plugin: AppStudio Type: geoservices Version: 2.1.15
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyle_ProgressBar_indeterminateDrawable__0.png
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyle_ProgressBar_indeterminateDrawable__1.png
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyleSmall_ProgressBar_indeterminateDrawable__0.png
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="ImageDrawable.qml" line="49"] qrc:/qt-project.org/imports/QtQuick/Controls/Styles/Android/drawables/ImageDrawable.qml:49:5: QML Image: Cannot open: qrc:/data/user/0/com.esri.survey123/qt-reserved-files/android-style/480/progressBarStyleSmall_ProgressBar_indeterminateDrawable__1.png
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
+<12>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XForm.qml" line="1923"] qrc:/qml/XForms/XForm.qml:1923:9: QML XFormGeopointControl: Binding loop detected for property "implicitWidth"
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="activate" filename="XFormPositionSourceManager.qml" line="125"] qml: Activate positionSource referenceCount: 1 active: false
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addControlNode" filename="XForm.qml" line="940"] qml: addControlNode /xls-7b574c1e08a94f7488326a5cc25debc3/field_1 XFormGeopointControl_QMLTYPE_344(0x906639a0)
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="368"] qml: Media folder: true /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="369"] qml: Extensions folder: false /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/extensions
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="46"] qml: Update table schema: {
   "#nodes": [
     "instance",
     "bind[0]",
@@ -338,93 +338,79 @@
     }
   }
 }
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="47"] qml: repeatNodesets: []
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: xls-7b574c1e08a94f7488326a5cc25debc3 nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3 binding: {}
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: meta nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/meta binding: {}
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="206"] qml: Skipping meta/instanceID /xls-7b574c1e08a94f7488326a5cc25debc3/meta/instanceID
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="bindCalculates" filename="XForm.qml" line="479"] qml: Binding calculates for: xls-7b574c1e08a94f7488326a5cc25debc3 /xls-7b574c1e08a94f7488326a5cc25debc3
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="activate" filename="XFormPositionSourceManager.qml" line="125"] qml: Activate positionSource referenceCount: 2 active: false
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="385"] qml: Updating expressions
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="getFavorite" filename="XFormsDatabase.qml" line="485"] qml: getFavorite /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/form.xml row: {}
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onReady" filename="SurveyView.qml" line="584"] qml: Review mode: false rowid: null rowData: undefined
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] Survey Load: 1262ms
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] APPSTUDIO_POSITION_DESIRED_ACCURACY "HIGHEST" 0 false
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] void QGeoPositionInfoSourceAndroid::setPositioningMethods(bool) Adding Network location provider
-<15>1 2018-04-06T22:49:32Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onActiveChanged" filename="XFormPositionSourceManager.qml" line="52"] qml: positionSource.active: true
-<15>1 2018-04-06T22:49:37Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onPositionChanged" filename="XFormPositionSourceManager.qml" line="68"] qml: newPosition: Fri Apr 6 16:49:37 2018 GMT-0600 coordinate: 38.53205582 -105.99210162 2109
-<15>1 2018-04-06T22:49:37Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="release" filename="XFormPositionSourceManager.qml" line="149"] qml: Release positionSource referenceCount: 1 active: true
-<15>1 2018-04-06T22:49:37Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onActiveChanged" filename="XFormPositionSourceManager.qml" line="52"] qml: positionSource.active: false
-<15>1 2018-04-06T22:49:37Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="release" filename="XFormPositionSourceManager.qml" line="149"] qml: Release positionSource referenceCount: 0 active: false
-<15>1 2018-04-06T22:49:37Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="toObject" filename="XFormGeoposition.qml" line="164"] qml: Geoposition toObject: {
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="47"] qml: repeatNodesets: []
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: xls-7b574c1e08a94f7488326a5cc25debc3 nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3 binding: {}
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: meta nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/meta binding: {}
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="206"] qml: Skipping meta/instanceID /xls-7b574c1e08a94f7488326a5cc25debc3/meta/instanceID
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="bindCalculates" filename="XForm.qml" line="479"] qml: Binding calculates for: xls-7b574c1e08a94f7488326a5cc25debc3 /xls-7b574c1e08a94f7488326a5cc25debc3
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="activate" filename="XFormPositionSourceManager.qml" line="125"] qml: Activate positionSource referenceCount: 2 active: false
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XForm.qml" line="385"] qml: Updating expressions
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="getFavorite" filename="XFormsDatabase.qml" line="485"] qml: getFavorite /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/form.xml row: {}
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onReady" filename="SurveyView.qml" line="584"] qml: Review mode: false rowid: null rowData: undefined
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] Survey Load: 1069ms
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] APPSTUDIO_POSITION_DESIRED_ACCURACY "HIGHEST" 0 false
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] void QGeoPositionInfoSourceAndroid::setPositioningMethods(bool) Adding Network location provider
+<15>1 2018-04-06T22:47:01Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onActiveChanged" filename="XFormPositionSourceManager.qml" line="52"] qml: positionSource.active: true
+<15>1 2018-04-06T22:47:04Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onPositionChanged" filename="XFormPositionSourceManager.qml" line="68"] qml: newPosition: Fri Apr 6 16:47:04 2018 GMT-0600 coordinate: 38.5321182 -105.9919117 0
+<15>1 2018-04-06T22:47:04Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="release" filename="XFormPositionSourceManager.qml" line="149"] qml: Release positionSource referenceCount: 1 active: true
+<15>1 2018-04-06T22:47:04Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onActiveChanged" filename="XFormPositionSourceManager.qml" line="52"] qml: positionSource.active: false
+<15>1 2018-04-06T22:47:04Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="release" filename="XFormPositionSourceManager.qml" line="149"] qml: Release positionSource referenceCount: 0 active: false
+<15>1 2018-04-06T22:47:04Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="toObject" filename="XFormGeoposition.qml" line="164"] qml: Geoposition toObject: {
   "spatialReference": {
     "wkid": 4326
   },
   "type": "point",
-  "x": -105.99210162,
-  "y": 38.53205582,
-  "z": 2109,
-  "speed": 1.100000023841858,
-  "direction": 72.9000015258789,
-  "horizontalAccuracy": 21.237998962402344
+  "x": -105.9919117,
+  "y": 38.5321182,
+  "z": 0,
+  "speed": 0,
+  "direction": 0,
+  "horizontalAccuracy": 19.648000717163086
 }
-<15>1 2018-04-06T22:49:39Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onControlFocusChanged" filename="XForm.qml" line="125"] qml: Focus change saveIncomplete: {"@jr:requiredMsg":"This is a required question - Clue Title","@nodeset":"/xls-7b574c1e08a94f7488326a5cc25debc3/field_3","@required":"true()","@type":"string"} TextField_QMLTYPE_72(0x8f17c1e0)
-<15>1 2018-04-06T22:49:39Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="saveIncomplete" filename="SurveyView.qml" line="710"] qml: Saving incomplete draft
-<15>1 2018-04-06T22:49:39Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
-<12>1 2018-04-06T22:49:44Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:44Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="getPaths" filename="XFormPictureChooserAndroid.qml" line="279"] qml: *-*-*-*-*-*-*-*-:  ["file:///storage/emulated/0/Pictures","file:///storage/emulated/0/Pictures/Facebook","file:///storage/emulated/0/Pictures/Messages","file:///storage/emulated/0/Pictures/Messenger","file:///storage/emulated/0/Pictures/RICOH THETA","file:///storage/emulated/0/Pictures/Screenshots","file:///storage/emulated/0/Android/data/com.esri.survey123/files/Pictures","file:///storage/3426-17F5/DCIM","file:///storage/emulated/0/DCIM","file:///storage/3426-17F5/DCIM/Camera","file:///storage/emulated/0/DCIM/100ANDRO","file:///storage/emulated/0/DCIM/Camera","file:///storage/emulated/0/DCIM/Facebook","file:///storage/emulated/0/DCIM/ID-Photo-Prints","file:///storage/emulated/0/DCIM/ID-Photos","file:///storage/emulated/0/DCIM/Restored","file:///storage/emulated/0/DCIM/baconreader"]
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="resizeImage" filename="XFormImageControl.qml" line="424"] qml: No image resize: 0
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateValue" filename="XFormImageControl.qml" line="500"] qml: image-updateValue: field_2-89d6880243c749f7908467a59e177bb2.jpg
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateValue" filename="XFormImageControl.qml" line="501"] qml: imageUrl: file:///sdcard/ArcGIS/My Survey Attachments/field_2-89d6880243c749f7908467a59e177bb2.jpg
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onControlFocusChanged" filename="XForm.qml" line="125"] qml: Focus change saveIncomplete: {"@nodeset":"/xls-7b574c1e08a94f7488326a5cc25debc3/field_2","@type":"binary"} null
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="saveIncomplete" filename="SurveyView.qml" line="710"] qml: Saving incomplete draft
-<15>1 2018-04-06T22:49:50Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onControlFocusChanged" filename="XForm.qml" line="125"] qml: Focus change saveIncomplete: {"@jr:requiredMsg":"This is a required question - Collector Name","@nodeset":"/xls-7b574c1e08a94f7488326a5cc25debc3/field_5","@required":"true()","@type":"string"} TextField_QMLTYPE_72(0x8f1e5700)
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="saveIncomplete" filename="SurveyView.qml" line="710"] qml: Saving incomplete draft
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="checkCalculateConstraints" filename="XFormData.qml" line="1300"] qml: ** checkCalculateContraints **
-<15>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="checkControlConstraints" filename="XFormData.qml" line="1323"] qml: checkControlConstraints
-<12>1 2018-04-06T22:49:52Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="featureValue" filename="XFormData.qml" line="757"] qml: Skip meta value transform: undefined
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="toFeatureData" filename="XFormData.qml" line="1007"] qml: edits: [
+<15>1 2018-04-06T22:47:12Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onControlFocusChanged" filename="XForm.qml" line="125"] qml: Focus change saveIncomplete: {"@jr:requiredMsg":"This is a required question - Clue Title","@nodeset":"/xls-7b574c1e08a94f7488326a5cc25debc3/field_3","@required":"true()","@type":"string"} TextField_QMLTYPE_96(0x92e6e720)
+<15>1 2018-04-06T22:47:12Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="saveIncomplete" filename="SurveyView.qml" line="710"] qml: Saving incomplete draft
+<15>1 2018-04-06T22:47:12Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onControlFocusChanged" filename="XForm.qml" line="125"] qml: Focus change saveIncomplete: {"@jr:requiredMsg":"This is a required question - Collector Name","@nodeset":"/xls-7b574c1e08a94f7488326a5cc25debc3/field_5","@required":"true()","@type":"string"} TextField_QMLTYPE_96(0x92d2dc40)
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="saveIncomplete" filename="SurveyView.qml" line="710"] qml: Saving incomplete draft
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="checkCalculateConstraints" filename="XFormData.qml" line="1300"] qml: ** checkCalculateContraints **
+<15>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="checkControlConstraints" filename="XFormData.qml" line="1323"] qml: checkControlConstraints
+<12>1 2018-04-06T22:47:18Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="finalize" filename="XForm.qml" line="539"] qml: Finalizing values
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="featureValue" filename="XFormData.qml" line="757"] qml: Skip meta value transform: undefined
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="toFeatureData" filename="XFormData.qml" line="1007"] qml: edits: [
   {
     "attachments": [
-      [
-        {
-          "editMode": 0,
-          "fieldName": "field_2",
-          "fileName": "field_2-89d6880243c749f7908467a59e177bb2.jpg"
-        }
-      ]
+      []
     ],
     "id": "%surveyPoint",
     "adds": [
       {
         "attributes": {
-          "field_3": "Debug photo test",
+          "field_3": "Debug text test",
           "field_5": "Justin"
         },
         "geometry": {
           "spatialReference": {
             "wkid": 4326
           },
-          "x": -105.99210162,
-          "y": 38.53205582,
-          "z": 2109
+          "x": -105.9919117,
+          "y": 38.5321182,
+          "z": 0
         }
       }
     ]
   }
 ]
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="save" filename="SurveyView.qml" line="703"] qml: row added: 43
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="metaValue" filename="XFormData.qml" line="1495"] qml: metaValue: Schema not ready
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="save" filename="SurveyView.qml" line="703"] qml: row added: 42
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="metaValue" filename="XFormData.qml" line="1495"] qml: metaValue: Schema not ready
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
   "displayInfo": {
     "map": {
       "coordinateFormat": null,
@@ -460,23 +446,23 @@
     "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3/FeatureServer"
   }
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addDefaultMapSources" filename="XFormMapSettings.qml" line="220"] qml: Reading default map sources: qrc:/qml/XForms/XFormMapSettings.json
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onCompleted" filename="SurveysListPage.qml" line="84"] qml: SurveysListPage: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/form.xml
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="46"] qml: Update table schema: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addDefaultMapSources" filename="XFormMapSettings.qml" line="220"] qml: Reading default map sources: qrc:/qml/XForms/XFormMapSettings.json
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] QFSFileEngine::open: No file name specified
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default"] libpng warning: iCCP: known incorrect sRGB profile
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onCompleted" filename="SurveysListPage.qml" line="84"] qml: SurveysListPage: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/form.xml
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="46"] qml: Update table schema: {
   "#nodes": [
     "instance",
     "bind[0]",
@@ -556,8 +542,8 @@
     }
   }
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="47"] qml: repeatNodesets: []
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="76"] qml: buildSchema: instance: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="47"] qml: repeatNodesets: []
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="76"] qml: buildSchema: instance: {
   "#nodes": [
     "surveyDescription",
     "field_3",
@@ -582,23 +568,23 @@
   "surveyDescription": null,
   "#tag": "xls-7b574c1e08a94f7488326a5cc25debc3"
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: xls-7b574c1e08a94f7488326a5cc25debc3 nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3 binding: {}
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: surveyDescription
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_3
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_5
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_4
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_2
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_1
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="76"] qml: buildSchema: instance: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: xls-7b574c1e08a94f7488326a5cc25debc3 nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3 binding: {}
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: surveyDescription
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_3
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_5
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_4
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_2
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="229"] qml: XFormSchema basic mode: field_1
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="76"] qml: buildSchema: instance: {
   "#nodes": [
     "instanceID"
   ],
   "instanceID": null,
   "#tag": "meta"
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: meta nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/meta binding: {}
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="206"] qml: Skipping meta/instanceID /xls-7b574c1e08a94f7488326a5cc25debc3/meta/instanceID
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="66"] qml: schema: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="98"] qml: schema table: meta nodeset: /xls-7b574c1e08a94f7488326a5cc25debc3/meta binding: {}
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildSchema" filename="XFormSchema.qml" line="206"] qml: Skipping meta/instanceID /xls-7b574c1e08a94f7488326a5cc25debc3/meta/instanceID
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="XFormSchema.qml" line="66"] qml: schema: {
   "binding": {},
   "domains": [],
   "esriParameters": {},
@@ -903,7 +889,7 @@
     "field_1": null
   }
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="75"] qml: Refreshing map settings surveyPath: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo info: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="75"] qml: Refreshing map settings surveyPath: /sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo info: {
   "coordinateFormat": null,
   "defaultType": {
     "name": null
@@ -918,43 +904,42 @@
     "zoomLevel": 0
   }
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="176"] qml: Map folders: [
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="refresh" filename="XFormMapSettings.qml" line="176"] qml: Map folders: [
   "esriinfo-media",
   "media",
   "Maps",
   "maps"
 ]
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="189"] qml: Adding private maps folder: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="189"] qml: Adding private maps folder: {
   "recursive": true,
   "url": "file:///sdcard/ArcGIS/My Surveys/7b574c1e08a94f7488326a5cc25debc3/esriinfo/media"
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="209"] qml: Adding maps library folder: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormMapSettings.qml" line="209"] qml: Adding maps library folder: {
   "recursive": true,
   "url": "file:///sdcard/ArcGIS/My Surveys/Maps"
 }
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
-<12>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XFormExpressionList.qml" line="30"] qrc:/qml/XForms/XFormExpressionList.qml:30: ReferenceError: xform is not defined
-<15>1 2018-04-06T22:49:53Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="submitData" filename="SubmitSurveysPage.qml" line="155"] qml: submitData: rowid: 43 name: form data: {
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
+<12>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XFormExpressionList.qml" line="30"] qrc:/qml/XForms/XFormExpressionList.qml:30: ReferenceError: xform is not defined
+<15>1 2018-04-06T22:47:20Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="submitData" filename="SubmitSurveysPage.qml" line="155"] qml: submitData: rowid: 42 name: form data: {
   "xls-7b574c1e08a94f7488326a5cc25debc3": {
     "field_1": {
-      "direction": 72.9000015258789,
-      "horizontalAccuracy": 21.237998962402344,
+      "direction": 0,
+      "horizontalAccuracy": 19.648000717163086,
       "spatialReference": {
         "wkid": 4326
       },
-      "speed": 1.100000023841858,
+      "speed": 0,
       "type": "point",
-      "x": -105.99210162,
-      "y": 38.53205582,
-      "z": 2109
+      "x": -105.9919117,
+      "y": 38.5321182,
+      "z": 0
     },
-    "field_2": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-    "field_3": "Debug photo test",
+    "field_3": "Debug text test",
     "field_5": "Justin"
   }
-} feature [{"attachments":[[{"editMode":0,"fieldName":"field_2","fileName":"field_2-89d6880243c749f7908467a59e177bb2.jpg"}]],"id":"%surveyPoint","adds":[{"attributes":{"field_3":"Debug photo test","field_5":"Justin"},"geometry":{"spatialReference":{"wkid":4326},"x":-105.99210162,"y":38.53205582,"z":2109}}]}]
-<15>1 2018-04-06T22:49:54Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="setFeatureService" filename="SubmitSurveysPage.qml" line="173"] qml: setFeatureService serviceInfo: {
+} feature [{"attachments":[[]],"id":"%surveyPoint","adds":[{"attributes":{"field_3":"Debug text test","field_5":"Justin"},"geometry":{"spatialReference":{"wkid":4326},"x":-105.9919117,"y":38.5321182,"z":0}}]}]
+<15>1 2018-04-06T22:47:21Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="setFeatureService" filename="SubmitSurveysPage.qml" line="173"] qml: setFeatureService serviceInfo: {
   "access": "public",
   "accessInformation": null,
   "appCategories": [],
@@ -1017,9 +1002,9 @@
   ],
   "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer"
 }
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="setFeatureService" filename="SubmitSurveysPage.qml" line="183"] qml: setFeatureService url: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="setFeatureService" filename="SubmitSurveysPage.qml" line="183"] qml: setFeatureService url: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
   "displayInfo": {
     "map": {
       "coordinateFormat": null,
@@ -1055,9 +1040,9 @@
     "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3/FeatureServer"
   }
 }
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateMapPackages" filename="SurveyInfo.qml" line="97"] qml: Primary library path: /sdcard/ArcGIS/My Surveys/Maps
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onWebhooksChanged" filename="XFormWebhooks.qml" line="37"] qml: onWebhooksChanged: undefined
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="readInfo" filename="SurveyInfo.qml" line="71"] qml: surveyInfo: {
   "displayInfo": {
     "map": {
       "coordinateFormat": null,
@@ -1093,9 +1078,9 @@
     "url": "https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3/FeatureServer"
   }
 }
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
-<15>1 2018-04-06T22:49:57Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFeatureServiceUrlChanged" filename="XFormFeatureService.qml" line="647"] qml: Requesting featureServiceInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: {
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
+<15>1 2018-04-06T22:47:24Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFeatureServiceUrlChanged" filename="XFormFeatureService.qml" line="647"] qml: Requesting featureServiceInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: {
   "allowGeometryUpdates": true,
   "capabilities": "Create,Query,Update,Editing",
   "copyrightText": "",
@@ -1177,8 +1162,8 @@
     "xssPreventionRule": "InputOnly"
   }
 }
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="getNext" filename="XFormFeatureService.qml" line="707"] qml: Requesting layerInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer/0
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addLayerInfo" filename="XFormFeatureService.qml" line="735"] qml: Feature layerInfo: {
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="getNext" filename="XFormFeatureService.qml" line="707"] qml: Requesting layerInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer/0
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addLayerInfo" filename="XFormFeatureService.qml" line="735"] qml: Feature layerInfo: {
   "advancedQueryCapabilities": {
     "supportsAdvancedQueryRelated": true,
     "supportsCountDistinct": true,
@@ -1400,8 +1385,8 @@
   "parentRelationships": [],
   "childRelationships": []
 }
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="getNext" filename="XFormFeatureService.qml" line="707"] qml: Requesting layerInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer/1
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="addLayerInfo" filename="XFormFeatureService.qml" line="735"] qml: Feature layerInfo: {
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="getNext" filename="XFormFeatureService.qml" line="707"] qml: Requesting layerInfo: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer/1
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="addLayerInfo" filename="XFormFeatureService.qml" line="735"] qml: Feature layerInfo: {
   "advancedQueryCapabilities": {
     "supportsAdvancedQueryRelated": true,
     "supportsCountDistinct": true,
@@ -1581,211 +1566,105 @@
   "parentRelationships": [],
   "childRelationships": []
 }
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateRelationships" filename="XFormFeatureService.qml" line="891"] qml: Updating relationship for: surveyPoint
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="updateRelationships" filename="XFormFeatureService.qml" line="891"] qml: Updating relationship for: metadata
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onServiceReady" filename="SubmitSurveysPage.qml" line="325"] qml: Sending row: 43 field_3:Debug photo test, field_2:field_2-89d6880243c749f7908467a59e177bb2.jpg, field_5:Justin
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="90"] qml: applyData: [
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateRelationships" filename="XFormFeatureService.qml" line="891"] qml: Updating relationship for: surveyPoint
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="updateRelationships" filename="XFormFeatureService.qml" line="891"] qml: Updating relationship for: metadata
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onServiceReady" filename="SubmitSurveysPage.qml" line="325"] qml: Sending row: 42 field_3:Debug text test, field_5:Justin
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="90"] qml: applyData: [
   {
     "attachments": [
-      [
-        {
-          "editMode": 0,
-          "fieldName": "field_2",
-          "fileName": "field_2-89d6880243c749f7908467a59e177bb2.jpg"
-        }
-      ]
+      []
     ],
     "id": "%surveyPoint",
     "adds": [
       {
         "attributes": {
-          "field_3": "Debug photo test",
+          "field_3": "Debug text test",
           "field_5": "Justin"
         },
         "geometry": {
           "spatialReference": {
             "wkid": 4326
           },
-          "x": -105.99210162,
-          "y": 38.53205582,
-          "z": 2109
+          "x": -105.9919117,
+          "y": 38.5321182,
+          "z": 0
         }
       }
     ]
   }
 ]
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: surveyPoint supportsAttachmentsByUploadId: true
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: metadata supportsAttachmentsByUploadId: true
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="101"] qml: Adding attachments by upload id: true
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="125"] qml: Applying edits to: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="removeMetaProperties" filename="XFormFeatureService.qml" line="1004"] qml: removing meta properties: 1
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="133"] qml: edits: [
+<15>1 2018-04-06T22:47:25Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: surveyPoint supportsAttachmentsByUploadId: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: metadata supportsAttachmentsByUploadId: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="101"] qml: Adding attachments by upload id: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="125"] qml: Applying edits to: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="removeMetaProperties" filename="XFormFeatureService.qml" line="1004"] qml: removing meta properties: 1
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="133"] qml: edits: [
   {
     "attachments": [
-      [
-        {
-          "editMode": 0,
-          "fieldName": "field_2",
-          "fileName": "field_2-89d6880243c749f7908467a59e177bb2.jpg"
-        }
-      ]
+      []
     ],
     "id": 0,
     "adds": [
       {
         "attributes": {
-          "field_3": "Debug photo test",
+          "field_3": "Debug text test",
           "field_5": "Justin",
-          "globalid": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}"
+          "globalid": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}"
         },
         "geometry": {
           "spatialReference": {
             "wkid": 4326
           },
-          "x": -105.99210162,
-          "y": 38.53205582
+          "x": -105.9919117,
+          "y": 38.5321182
         }
       }
     ]
   }
 ]
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildUploadsList" filename="XFormFeatureService.qml" line="272"] qml: uploads list: [
-  {
-    "editId": 0,
-    "index": 0,
-    "fieldName": "field_2",
-    "fileName": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-    "keywords": "field_2",
-    "description": "Attachment field=field_2"
-  }
-]
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="uploadItem" filename="XFormFeatureService.qml" line="356"] qml: uploading: {
-  "description": "Attachment field=field_2",
-  "file": "@/sdcard/ArcGIS/My Survey Attachments/field_2-89d6880243c749f7908467a59e177bb2.jpg"
-}
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] void NetworkRequest::sendFormData(const QVariantMap&, const QVariantMap&) param "/sdcard/ArcGIS/My Survey Attachments/field_2-89d6880243c749f7908467a59e177bb2.jpg"
-<15>1 2018-04-06T22:49:58Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default"] void NetworkRequest::sendFormData(const QVariantMap&, const QVariantMap&) Skipping Parameter "/sdcard/ArcGIS/My Survey Attachments/field_2-89d6880243c749f7908467a59e177bb2.jpg"
-<15>1 2018-04-06T22:50:02Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="306"] qml: upload response: {
-  "item": {
-    "committed": true,
-    "date": 1523055002045,
-    "description": "Attachment field=field_2",
-    "itemID": "935266a12dc946feb16a6f272ad4bf98",
-    "itemName": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-    "serviceName": "survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker.FeatureServer"
-  },
-  "success": true
-}
-<15>1 2018-04-06T22:50:02Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="202"] qml: upload info: {
-  "editId": 0,
-  "index": 0,
-  "fieldName": "field_2",
-  "fileName": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-  "keywords": "field_2",
-  "description": "Attachment field=field_2",
-  "contentType": "image/jpeg",
-  "itemID": "935266a12dc946feb16a6f272ad4bf98",
-  "itemName": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-  "date": 1523055002045,
-  "committed": true
-}
-<15>1 2018-04-06T22:50:02Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="203"] qml: upload add: {
-  "field_3": "Debug photo test",
-  "field_5": "Justin",
-  "globalid": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}"
-}
-<15>1 2018-04-06T22:50:02Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="204"] qml: upload attachment: {
-  "contentType": "image/jpeg",
-  "globalId": "{6BB6F9FA-5E76-4BEA-BC4C-EFB6B0FA86D1}",
-  "keywords": "field_2",
-  "name": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-  "parentGlobalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-  "uploadId": "935266a12dc946feb16a6f272ad4bf98"
-}
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="376"] qml: applyEdits response: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildUploadsList" filename="XFormFeatureService.qml" line="272"] qml: uploads list: []
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="376"] qml: applyEdits response: [
   {
     "addResults": [
       {
-        "globalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-        "objectId": 132,
+        "globalId": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}",
+        "objectId": 131,
         "success": true
       }
     ],
-    "attachments": {
-      "addResults": [
-        {
-          "error": {
-            "code": 1009,
-            "description": "No permission to edit the specified feature."
-          },
-          "globalId": "{6BB6F9FA-5E76-4BEA-BC4C-EFB6B0FA86D1}",
-          "objectId": "-1",
-          "success": false
-        }
-      ],
-      "deleteResults": [],
-      "updateResults": []
-    },
     "id": 0
   }
 ]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="402"] qml: editResult: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="402"] qml: editResult: {
   "addResults": [
     {
-      "globalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-      "objectId": 132,
+      "globalId": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}",
+      "objectId": 131,
       "success": true
     }
   ],
-  "attachments": {
-    "addResults": [
-      {
-        "error": {
-          "code": 1009,
-          "description": "No permission to edit the specified feature."
-        },
-        "globalId": "{6BB6F9FA-5E76-4BEA-BC4C-EFB6B0FA86D1}",
-        "objectId": "-1",
-        "success": false
-      }
-    ],
-    "deleteResults": [],
-    "updateResults": []
-  },
   "id": 0
 }
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="441"] qml: applyEdits edit results: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="441"] qml: applyEdits edit results: [
   {
-    "attachments": {
-      "adds": [
-        {
-          "contentType": "image/jpeg",
-          "globalId": "{6BB6F9FA-5E76-4BEA-BC4C-EFB6B0FA86D1}",
-          "keywords": "field_2",
-          "name": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-          "parentGlobalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-          "uploadId": "935266a12dc946feb16a6f272ad4bf98"
-        }
-      ]
-    },
     "id": 0,
     "adds": [
       {
         "attributes": {
-          "field_3": "Debug photo test",
+          "field_3": "Debug text test",
           "field_5": "Justin",
-          "globalid": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}"
+          "globalid": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}"
         },
         "geometry": {
           "spatialReference": {
             "wkid": 4326
           },
-          "x": -105.99210162,
-          "y": 38.53205582
+          "x": -105.9919117,
+          "y": 38.5321182
         },
         "result": {
-          "globalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-          "objectId": 132,
+          "globalId": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}",
+          "objectId": 131,
           "success": true
         }
       }
@@ -1800,43 +1679,31 @@
     }
   }
 ]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="syncInstanceData" filename="XFormFeatureService.qml" line="1243"] qml: syncInstanceData instanceName: xls-7b574c1e08a94f7488326a5cc25debc3
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="syncInstanceData" filename="XFormFeatureService.qml" line="1256"] qml: syncing instance parentLayer: 0 name: surveyPoint type: Feature Layer #edits: 1
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="1270"] qml: syncing layer: 0 name: surveyPoint type: Feature Layer
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="1274"] qml: Processing adds: 1
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="456"] qml: applyEdits:edits: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="syncInstanceData" filename="XFormFeatureService.qml" line="1243"] qml: syncInstanceData instanceName: xls-7b574c1e08a94f7488326a5cc25debc3
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onInstanceChanged" filename="XFormData.qml" line="75"] qml: Data editMode: 0
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="syncInstanceData" filename="XFormFeatureService.qml" line="1256"] qml: syncing instance parentLayer: 0 name: surveyPoint type: Feature Layer #edits: 1
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="1270"] qml: syncing layer: 0 name: surveyPoint type: Feature Layer
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="1274"] qml: Processing adds: 1
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="456"] qml: applyEdits:edits: [
   {
-    "attachments": {
-      "adds": [
-        {
-          "contentType": "image/jpeg",
-          "globalId": "{6BB6F9FA-5E76-4BEA-BC4C-EFB6B0FA86D1}",
-          "keywords": "field_2",
-          "name": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-          "parentGlobalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-          "uploadId": "935266a12dc946feb16a6f272ad4bf98"
-        }
-      ]
-    },
     "id": 0,
     "adds": [
       {
         "attributes": {
-          "field_3": "Debug photo test",
+          "field_3": "Debug text test",
           "field_5": "Justin",
-          "globalid": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}"
+          "globalid": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}"
         },
         "geometry": {
           "spatialReference": {
             "wkid": 4326
           },
-          "x": -105.99210162,
-          "y": 38.53205582
+          "x": -105.9919117,
+          "y": 38.5321182
         },
         "result": {
-          "globalId": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
-          "objectId": 132,
+          "globalId": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}",
+          "objectId": 131,
           "success": true
         }
       }
@@ -1851,43 +1718,42 @@
     }
   }
 ]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="handleEvent" filename="XFormWebhooks.qml" line="44"] qml: No webhooks defined
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onApplied" filename="SubmitSurveysPage.qml" line="332"] qml: Feature service applied edits: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="handleEvent" filename="XFormWebhooks.qml" line="44"] qml: No webhooks defined
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onApplied" filename="SubmitSurveysPage.qml" line="332"] qml: Feature service applied edits: {
   "adds": 1,
   "deletes": 0,
   "updates": 0
 } instanceData: {
   "xls-7b574c1e08a94f7488326a5cc25debc3": {
     "field_1": {
-      "direction": 72.9000015258789,
-      "horizontalAccuracy": 21.237998962402344,
+      "direction": 0,
+      "horizontalAccuracy": 19.648000717163086,
       "spatialReference": {
         "wkid": 4326
       },
-      "speed": 1.100000023841858,
+      "speed": 0,
       "type": "point",
-      "x": -105.99210162,
-      "y": 38.53205582,
-      "z": 2109
+      "x": -105.9919117,
+      "y": 38.5321182,
+      "z": 0
     },
-    "field_2": "field_2-89d6880243c749f7908467a59e177bb2.jpg",
-    "field_3": "Debug photo test",
+    "field_3": "Debug text test",
     "field_5": "Justin",
-    "globalid": "{3AFAEBCB-7078-4CE7-A055-7F57FF113E21}",
+    "globalid": "{4D562D14-A49E-4796-ABC2-F43C2AAC661D}",
     "__meta__": {
       "globalIdField": "globalid",
       "objectIdField": "ObjectId",
       "editMode": 1
     },
-    "ObjectId": 132
+    "ObjectId": 131
   }
 }
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormsDatabase.qml" line="388"] qml: updateDataStatus: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormsDatabase.qml" line="388"] qml: updateDataStatus: {
   "rowsAffected": 1,
-  "insertId": "43",
+  "insertId": "42",
   "rows": {}
 }
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="submitData" filename="SubmitSurveysPage.qml" line="155"] qml: submitData: rowid: 26 name: form data: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="submitData" filename="SubmitSurveysPage.qml" line="155"] qml: submitData: rowid: 26 name: form data: {
   "xls-7b574c1e08a94f7488326a5cc25debc3": {
     "ObjectId": 114,
     "__meta__": {
@@ -1915,8 +1781,8 @@
     "surveyDescription": null
   }
 } feature [{"attachments":[[{"editMode":0,"fieldName":"field_2","fileName":"field_2-b7c77ee1a5ca4f6db7c43d99c9ea3fce.jpg"}]],"id":"%surveyPoint","updates":[{"attributes":{"ObjectId":114,"field_3":"Debug","field_4":null,"field_5":"Justin","globalid":"{E3062FE0-9064-4CAF-9E25-D30CF930112A}","surveyDescription":null},"geometry":{"spatialReference":{"wkid":4326},"x":-105.9919146,"y":38.5321113,"z":0}}]}]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onServiceReady" filename="SubmitSurveysPage.qml" line="325"] qml: Sending row: 26 ObjectId:114, field_2:field_2-b7c77ee1a5ca4f6db7c43d99c9ea3fce.jpg, field_3:Debug, field_5:Justin, globalid:{E3062FE0-9064-4CAF-9E25-D30CF930112A}
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="90"] qml: applyData: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onServiceReady" filename="SubmitSurveysPage.qml" line="325"] qml: Sending row: 26 ObjectId:114, field_2:field_2-b7c77ee1a5ca4f6db7c43d99c9ea3fce.jpg, field_3:Debug, field_5:Justin, globalid:{E3062FE0-9064-4CAF-9E25-D30CF930112A}
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="90"] qml: applyData: [
   {
     "attachments": [
       [
@@ -1950,12 +1816,12 @@
     ]
   }
 ]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: surveyPoint supportsAttachmentsByUploadId: true
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: metadata supportsAttachmentsByUploadId: true
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="101"] qml: Adding attachments by upload id: true
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="125"] qml: Applying edits to: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="removeMetaProperties" filename="XFormFeatureService.qml" line="1004"] qml: removing meta properties: 1
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="133"] qml: edits: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: surveyPoint supportsAttachmentsByUploadId: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="96"] qml: layer: metadata supportsAttachmentsByUploadId: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyData" filename="XFormFeatureService.qml" line="101"] qml: Adding attachments by upload id: true
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="125"] qml: Applying edits to: https://services2.arcgis.com/4VBZFeVR0gsH4uni/arcgis/rest/services/survey123_7b574c1e08a94f7488326a5cc25debc3_fieldworker/FeatureServer
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="removeMetaProperties" filename="XFormFeatureService.qml" line="1004"] qml: removing meta properties: 1
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="applyEdits" filename="XFormFeatureService.qml" line="133"] qml: edits: [
   {
     "attachments": [
       [
@@ -1988,8 +1854,8 @@
     ]
   }
 ]
-<15>1 2018-04-06T22:50:03Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="buildUploadsList" filename="XFormFeatureService.qml" line="272"] qml: uploads list: []
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="376"] qml: applyEdits response: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="buildUploadsList" filename="XFormFeatureService.qml" line="272"] qml: uploads list: []
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="376"] qml: applyEdits response: [
   {
     "id": 0,
     "updateResults": [
@@ -2005,7 +1871,7 @@
     ]
   }
 ]
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="402"] qml: editResult: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormFeatureService.qml" line="402"] qml: editResult: {
   "id": 0,
   "updateResults": [
     {
@@ -2019,7 +1885,7 @@
     }
   ]
 }
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="441"] qml: applyEdits edit results: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="441"] qml: applyEdits edit results: [
   {
     "id": 0,
     "updates": [
@@ -2061,14 +1927,14 @@
     }
   }
 ]
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="444"] qml: applyEdits:errors: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onSuccess" filename="XFormFeatureService.qml" line="444"] qml: applyEdits:errors: [
   {
     "code": 1009,
     "description": "No permission to edit the specified feature.",
     "tableId": 0
   }
 ]
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFailed" filename="SubmitSurveysPage.qml" line="345"] qml: Feature service error: [
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFailed" filename="SubmitSurveysPage.qml" line="345"] qml: Feature service error: [
   {
     "id": 0,
     "updates": [
@@ -2110,13 +1976,13 @@
     }
   }
 ]
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="" filename="XFormsDatabase.qml" line="361"] qml: updateStatus: {
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="" filename="XFormsDatabase.qml" line="361"] qml: updateStatus: {
   "rowsAffected": 1,
-  "insertId": "43",
+  "insertId": "42",
   "rows": {}
 }
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
-<15>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
-<12>1 2018-04-06T22:50:04Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="default" filename="XFormWebhooks.qml" line="102"] qrc:/qml/XForms/XFormWebhooks.qml:102: TypeError: Cannot read property 'itemId' of null
-<15>1 2018-04-06T22:50:11Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="expression for onStateChanged" filename="Portal.qml" line="192"] qml: Application state changed: 2
-<15>1 2018-04-06T22:50:11Z localhost Survey123forArcGIS 20811 - [AppStudio@11205 category="qml" function="expression for onStateChanged" filename="Portal.qml" line="192"] qml: Application state changed: 0
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="onFeatureServiceInfoChanged" filename="XFormFeatureService.qml" line="654"] qml: featureServiceInfo: null
+<15>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="update" filename="FilteredListModel.qml" line="62"] qml: Empty filterText
+<12>1 2018-04-06T22:47:26Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="default" filename="XFormWebhooks.qml" line="102"] qrc:/qml/XForms/XFormWebhooks.qml:102: TypeError: Cannot read property 'itemId' of null
+<15>1 2018-04-06T22:47:28Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="expression for onStateChanged" filename="Portal.qml" line="192"] qml: Application state changed: 2
+<15>1 2018-04-06T22:47:28Z localhost Survey123forArcGIS 19406 - [AppStudio@11205 category="qml" function="expression for onStateChanged" filename="Portal.qml" line="192"] qml: Application state changed: 0
